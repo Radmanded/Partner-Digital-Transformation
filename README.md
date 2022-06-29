@@ -5,22 +5,24 @@ connection between data, people, things and
 business that drive better business outcomes
 and customer experiences.
 
-### Customer First
+## Customer First
 
-## Goal Software Subscription XaaS Offerings
+## Services Automation Playbook
 
-Consumption based XaaS model - Pay for what you use...
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/9085386/176502590-cd31ec6f-f607-4f81-bad4-bdd31e306919.png">
 
-### Different Routes to Market
+
+### End Goal 
+
+Consumption based,  XaaS model - Pay for what you use. Allowing an experience tailored to each customer.
+
+### Different Routes to Market with Cisco
 
 **Sell TO**
 
 **Sell THROUGH**
 
 **Sell WITH**
-
-
-
 
 
 
@@ -59,18 +61,40 @@ https://www.britannica.com/technology/automation
 
 
 <details>
-<summary> Mindset Change </summary>
+<summary> Partner Programs </summary>
 
 <img width="1273" alt="CleanShot-Preview202206-29 at 07 03 00@2x" src="https://user-images.githubusercontent.com/9085386/176431892-977ca465-240b-483d-ac93-6bbf72ffb386.png">
   
 ![CleanShot-Firefox202206-29 at 07 34 31](https://user-images.githubusercontent.com/9085386/176437402-05679604-36cd-48b3-87eb-759efde12310.png)
+
+**Cisco Portfolio Explorer**
+
+Explore the use cases and architectures that are making a difference in your industry.
+
+
+**PXP Digital Co-Sell**
+
+Cisco's Partner Experience Platform making it easy for partners to digitally connect and provide co-sells opportunities.
+
+
+
+![CleanShot-Safari202206-29 at 12 37 30](https://user-images.githubusercontent.com/9085386/176500593-7fb0c648-0bfd-4822-bd7b-c5da9dfcaeec.png)
+
+![CleanShot-Safari202206-29 at 12 38 29](https://user-images.githubusercontent.com/9085386/176500753-01c6d303-1226-44fb-b42c-ec32c38748da.png)
+
+![CleanShot-Safari202206-29 at 12 39 29](https://user-images.githubusercontent.com/9085386/176500959-9569e53e-2d00-4725-bce1-54457c4c8a23.png)
+
+![CleanShot-Safari202206-29 at 12 40 02](https://user-images.githubusercontent.com/9085386/176501147-0c36a423-19e9-4553-a1f0-57d2ee4de5eb.png)
+
+![CleanShot-Safari202206-29 at 12 42 41](https://user-images.githubusercontent.com/9085386/176501510-340619a2-f90f-4f29-b179-c2ba80ce8b14.png)
 
 
 
 </details>
 
 
-### Cisco Ecosystem Exchange
+<details>
+<summary> Cisco Ecosystem Exchange </summary>
 
 Accelerate digital transformation with technology solutions tailored to your business needs.
 
@@ -78,7 +102,8 @@ https://developer.cisco.com/ecosystem/?dtid=odiprc001089
 
 **Example Projects** 
 
-Discover Cisco Technology Solutions
+</details>
+
 
 
 <details>
