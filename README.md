@@ -79,3 +79,17 @@ https://community.cisco.com/t5/smart-net-total-care-blogs/services-apis-are-avai
 https://www.cisco.com/c/en/us/support/services/sntc-portal/video-resources-partner.html
 
 
+<details>
+<summary> Digital Transformation Partners</summary>
+  
+**Tail-f**
+  
+Cisco® Network Services Orchestrator (NSO) enabled by Tail-f® is an industry-leading orchestration platform for hybrid networks. It provides comprehensive lifecycle service automation to enable you to design and deliver high-quality services faster and more easily.
+NSO is a model driven (YANG) platform for automating your network orchestration. It supports multi-vendor networks through a rich variety of Network Element Drivers (NEDs).
+
+https://www.tail-f.com/
+  
+  
+</details>
+
+
