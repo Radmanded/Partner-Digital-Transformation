@@ -1,6 +1,18 @@
 # Partner-Digital-Transformation
 Steps to digital transformation
 
+## Goal Software Subscription XaaS Offerings
+
+Consumption based XaaS model - Pay for what you use...
+
+### Different Routes to Market
+
+**Sell TO**
+
+**Sell THROUGH**
+
+**Sell WITH**
+
 ### Customer First
 
 
@@ -33,6 +45,9 @@ https://www.britannica.com/technology/automation
 ### Service Automation
 
 ![1](https://user-images.githubusercontent.com/9085386/176254449-34ba3963-1748-4fa7-a085-7eae487af17b.png)
+
+### 
+
 
 <details>
 <summary>Mindset Change</summary>
@@ -145,6 +160,10 @@ NSO is a model driven (YANG) platform for automating your network orchestration.
 **Video Series**
   
 https://community.cisco.com/t5/nso-developer-hub-blogs/nso-developer-days-2018-video-links/ba-p/3682921
+  
+**Cisco Crosswork Network Automation**
+  
+https://www.cisco.com/c/en/us/products/cloud-systems-management/crosswork-network-automation/index.html
   
   
 </details>
