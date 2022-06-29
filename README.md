@@ -1,7 +1,49 @@
 # Partner-Digital-Transformation
 Steps to digital transformation
 
+### Customer First
+
+
+
+### Infrastructure Automation
+
+<details>
+<summary>Automation History</summary>
+
+Automation, the application of machines to tasks once
+performed by human beings or, increasingly, to tasks
+that would otherwise be impossible. Although the term
+mechanization is often used to refer to the simple
+replacement of human labour by machines, automation
+generally implies the integration of machines into a self
+governing system. Automation has revolutionized those
+areas in which it has been introduced, and there is
+scarcely an aspect of modern life that has been
+unaffected by it.
+The term automation was coined in the automobile
+industry about 1946 to describe the increased use of
+automatic devices and controls in mechanized
+production lines. The origin of the word is attributed to
+D.S. Harder, an engineering manager at the Ford Motor
+Company at the time.
+https://www.britannica.com/technology/automation
+  
+</details>
+
+### Service Automation
+
 ![1](https://user-images.githubusercontent.com/9085386/176254449-34ba3963-1748-4fa7-a085-7eae487af17b.png)
+
+<details>
+<summary>Mindset Change</summary>
+
+<img width="1273" alt="CleanShot-Preview202206-29 at 07 03 00@2x" src="https://user-images.githubusercontent.com/9085386/176431892-977ca465-240b-483d-ac93-6bbf72ffb386.png">
+  
+![CleanShot-Firefox202206-29 at 07 34 31](https://user-images.githubusercontent.com/9085386/176437402-05679604-36cd-48b3-87eb-759efde12310.png)
+
+
+
+</details>
 
 
 ### Cisco Ecosystem Exchange
@@ -92,4 +134,17 @@ https://www.tail-f.com/
   
 </details>
 
+<details>
+<summary> Digital Transformation Applications</summary>
+  
+**NSO**
+  
+Cisco® Network Services Orchestrator (NSO) enabled by Tail-f® is an industry-leading orchestration platform for hybrid networks. It provides comprehensive lifecycle service automation to enable you to design and deliver high-quality services faster and more easily.
+NSO is a model driven (YANG) platform for automating your network orchestration. It supports multi-vendor networks through a rich variety of Network Element Drivers (NEDs).
 
+**Video Series**
+  
+https://community.cisco.com/t5/nso-developer-hub-blogs/nso-developer-days-2018-video-links/ba-p/3682921
+  
+  
+</details>
