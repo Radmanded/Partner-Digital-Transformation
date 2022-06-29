@@ -48,7 +48,34 @@ Redirect to that repository
 
 **What DSI partners are doing?**
 
+**KLA**
+
+KLA Laboratories, Inc. is an industry leader in the assessment, design, engineering, installation, certification, and support of networks, physical infrastructure, Wi-Fi, Industrial IoT, collaboration and audio/visual systems.
+
+KLA provides Turn-Key Solutions for all projects leveraging both internal resources and partner resources to maximize efficiency and provide cost-effective solutions.
+
+### SNTC
+
+![CleanShot-Safari202206-28 at 21 09 37](https://user-images.githubusercontent.com/9085386/176335911-590fca9a-aedf-4fb1-a83a-bd6dd38fe006.png)
 
 
+https://www.cisco.com/c/en/us/support/services/smart-net-total-care/index.html
+
+Prerequisites for Self-Service Onboarding
+In order to complete the self-service onboarding process, you must meet these requirements:
+You must have a valid Cisco account profile. If you do not have a Cisco username and account profile, refer to the Registration page.
+Your profile must have one or more smart-entitled contracts associated with it. Some examples of smart-entitled contracts include SMARTnet (now Smart Net Total Care), SP Base, TelePresence, Essential Operate, and Solution Support.
+
+**Service APIs**
+
+https://developer.cisco.com/docs/service-apis/#!introduction-to-cisco-services-apis/introduction-to-cisco-services-apis
+
+**Resources**
+
+https://community.cisco.com/t5/smart-net-total-care-portal-and/cisco-sntc-portal-registration/td-p/4640157
+
+https://community.cisco.com/t5/smart-net-total-care-blogs/services-apis-are-available/ba-p/3728792#M105
+
+https://www.cisco.com/c/en/us/support/services/sntc-portal/video-resources-partner.html
 
 
